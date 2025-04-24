@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info
+writing ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/PKG-INFO
+writing dependency_links to ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/dependency_links.txt
+writing entry points to ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/entry_points.txt
+writing requirements to ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/requires.txt
+writing top-level names to ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/top_level.txt
+writing manifest file '../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/SOURCES.txt'
+reading manifest file '../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/SOURCES.txt'
+writing manifest file '../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tanay/ros2_ws/build/dynamic_maze_marker/build
+creating /home/tanay/ros2_ws/build/dynamic_maze_marker/build/lib
+creating /home/tanay/ros2_ws/build/dynamic_maze_marker/build/lib/dynamic_maze_marker
+copying dynamic_maze_marker/maze_publisher.py -> /home/tanay/ros2_ws/build/dynamic_maze_marker/build/lib/dynamic_maze_marker
+copying dynamic_maze_marker/__init__.py -> /home/tanay/ros2_ws/build/dynamic_maze_marker/build/lib/dynamic_maze_marker
+running install
+running install_lib
+creating /home/tanay/ros2_ws/install/dynamic_maze_marker/lib/python3.10/site-packages/dynamic_maze_marker
+copying /home/tanay/ros2_ws/build/dynamic_maze_marker/build/lib/dynamic_maze_marker/maze_publisher.py -> /home/tanay/ros2_ws/install/dynamic_maze_marker/lib/python3.10/site-packages/dynamic_maze_marker
+copying /home/tanay/ros2_ws/build/dynamic_maze_marker/build/lib/dynamic_maze_marker/__init__.py -> /home/tanay/ros2_ws/install/dynamic_maze_marker/lib/python3.10/site-packages/dynamic_maze_marker
+byte-compiling /home/tanay/ros2_ws/install/dynamic_maze_marker/lib/python3.10/site-packages/dynamic_maze_marker/maze_publisher.py to maze_publisher.cpython-310.pyc
+byte-compiling /home/tanay/ros2_ws/install/dynamic_maze_marker/lib/python3.10/site-packages/dynamic_maze_marker/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/tanay/ros2_ws/install/dynamic_maze_marker/share/ament_index
+creating /home/tanay/ros2_ws/install/dynamic_maze_marker/share/ament_index/resource_index
+creating /home/tanay/ros2_ws/install/dynamic_maze_marker/share/ament_index/resource_index/packages
+copying resource/dynamic_maze_marker -> /home/tanay/ros2_ws/install/dynamic_maze_marker/share/ament_index/resource_index/packages
+copying package.xml -> /home/tanay/ros2_ws/install/dynamic_maze_marker/share/dynamic_maze_marker
+running install_egg_info
+Copying ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info to /home/tanay/ros2_ws/install/dynamic_maze_marker/lib/python3.10/site-packages/dynamic_maze_marker-0.0.0-py3.10.egg-info
+running install_scripts
+Installing maze_marker_publisher script to /home/tanay/ros2_ws/install/dynamic_maze_marker/lib/dynamic_maze_marker
+writing list of installed files to '/home/tanay/ros2_ws/build/dynamic_maze_marker/install.log'

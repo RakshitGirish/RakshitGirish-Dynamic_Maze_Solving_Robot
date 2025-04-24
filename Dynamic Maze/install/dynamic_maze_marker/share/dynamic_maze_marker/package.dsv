@@ -1,0 +1,6 @@
+source;share/dynamic_maze_marker/hook/pythonpath.ps1
+source;share/dynamic_maze_marker/hook/pythonpath.dsv
+source;share/dynamic_maze_marker/hook/pythonpath.sh
+source;share/dynamic_maze_marker/hook/ament_prefix_path.ps1
+source;share/dynamic_maze_marker/hook/ament_prefix_path.dsv
+source;share/dynamic_maze_marker/hook/ament_prefix_path.sh

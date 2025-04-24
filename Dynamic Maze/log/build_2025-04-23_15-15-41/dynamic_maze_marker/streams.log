@@ -1,0 +1,25 @@
+[1.130s] Invoking command in '/home/tanay/ros2_ws/src/dynamic_maze_marker': PYTHONPATH=/home/tanay/ros2_ws/build/dynamic_maze_marker/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tanay/ros2_ws/install/dynamic_maze_marker/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dynamic_maze_marker build --build-base /home/tanay/ros2_ws/build/dynamic_maze_marker/build install --record /home/tanay/ros2_ws/build/dynamic_maze_marker/install.log --single-version-externally-managed install_data
+[1.560s] running egg_info
+[1.564s] writing ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/PKG-INFO
+[1.564s] writing dependency_links to ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/dependency_links.txt
+[1.565s] writing entry points to ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/entry_points.txt
+[1.565s] writing requirements to ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/requires.txt
+[1.566s] writing top-level names to ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/top_level.txt
+[1.570s] reading manifest file '../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/SOURCES.txt'
+[1.573s] writing manifest file '../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info/SOURCES.txt'
+[1.574s] running build
+[1.574s] running build_py
+[1.575s] copying dynamic_maze_marker/maze_publisher.py -> /home/tanay/ros2_ws/build/dynamic_maze_marker/build/lib/dynamic_maze_marker
+[1.576s] running install
+[1.576s] running install_lib
+[1.577s] copying /home/tanay/ros2_ws/build/dynamic_maze_marker/build/lib/dynamic_maze_marker/maze_publisher.py -> /home/tanay/ros2_ws/install/dynamic_maze_marker/lib/python3.10/site-packages/dynamic_maze_marker
+[1.579s] byte-compiling /home/tanay/ros2_ws/install/dynamic_maze_marker/lib/python3.10/site-packages/dynamic_maze_marker/maze_publisher.py to maze_publisher.cpython-310.pyc
+[1.581s] running install_data
+[1.581s] running install_egg_info
+[1.585s] removing '/home/tanay/ros2_ws/install/dynamic_maze_marker/lib/python3.10/site-packages/dynamic_maze_marker-0.0.0-py3.10.egg-info' (and everything under it)
+[1.586s] Copying ../../build/dynamic_maze_marker/dynamic_maze_marker.egg-info to /home/tanay/ros2_ws/install/dynamic_maze_marker/lib/python3.10/site-packages/dynamic_maze_marker-0.0.0-py3.10.egg-info
+[1.589s] running install_scripts
+[1.625s] Installing maze_marker_publisher script to /home/tanay/ros2_ws/install/dynamic_maze_marker/lib/dynamic_maze_marker
+[1.626s] Installing robot_simulator script to /home/tanay/ros2_ws/install/dynamic_maze_marker/lib/dynamic_maze_marker
+[1.628s] writing list of installed files to '/home/tanay/ros2_ws/build/dynamic_maze_marker/install.log'
+[1.671s] Invoked command in '/home/tanay/ros2_ws/src/dynamic_maze_marker' returned '0': PYTHONPATH=/home/tanay/ros2_ws/build/dynamic_maze_marker/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tanay/ros2_ws/install/dynamic_maze_marker/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dynamic_maze_marker build --build-base /home/tanay/ros2_ws/build/dynamic_maze_marker/build install --record /home/tanay/ros2_ws/build/dynamic_maze_marker/install.log --single-version-externally-managed install_data

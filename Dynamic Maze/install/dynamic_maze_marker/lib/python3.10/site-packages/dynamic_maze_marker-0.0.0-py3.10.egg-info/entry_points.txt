@@ -1,0 +1,4 @@
+[console_scripts]
+maze_marker_publisher = dynamic_maze_marker.maze_publisher:main
+robot_simulator = dynamic_maze_marker.robot_simulator:main
+
